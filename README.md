@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rezamadahi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Ionic and vue js
 - 💞️ I’m looking to collaborate on developing
 - 📫 How to reach me rezamaddahi72@gmail.com
 
